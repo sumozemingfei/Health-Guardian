@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of AR Health Guardian (健康守卫)3",
+  "description": "一款结合AR技术与Google Gemini AI的沉浸式健康管理应用，提供实景运动游戏化体验与智能食物营养分析。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
